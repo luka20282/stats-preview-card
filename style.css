@@ -1,15 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Kumbh+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
-/* 
-    font-family: 'Lexend Deca';
-    font-weigh: 400;
-
-    font-family: 'Inter';
-    font-weigh: 400;
-    
-    font-family: 'Inter';
-    font-weigh: 700;
-*/
 body{
     background-color: #0A0C1B;
     
@@ -22,6 +12,7 @@ body{
     max-height: 450px;
     height: 450px;
     border-radius: 10px;
+    margin-top: 7%;
 }
 .overlay{
     background-color: #80007b;
